@@ -1,0 +1,15 @@
+{
+    "name": "flow",
+    "version": "1.0.0",
+    "description": "",
+    "main": "flow_test.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "flow-bin": "^0.79.1",
+        "flow-remove-types": "^1.2.3"
+    }
+}
